@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "BlockChat": false,
+  "DelayEnabled": false,
+  "MinDelayMs": 0,
+  "MaxDelayMs": 0,
+  "MainHandle": 787994,
+  "SecondHandle": 198036,
+  "UserMirrorKeys": []
+}
